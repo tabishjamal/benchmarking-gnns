@@ -1,6 +1,9 @@
 
 
-# Benchmarking Graph Neural Networks
+# Benchmarking Graph Neural Networks - Project Erdos
+
+## The code was forked from https://github.com/graphdeeplearning/benchmarking-gnns/tree/master-dgl-0.6 and later modified
+
 
 <br>
 
