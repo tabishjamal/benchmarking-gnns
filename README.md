@@ -4,6 +4,12 @@
 
 ## The code was forked from https://github.com/graphdeeplearning/benchmarking-gnns/tree/master-dgl-0.6 and later modified
 
+#### To run the project, download the dataset from below URLs
+CLUSTER dataset: 
+PATTERN dataset: 
+
+Run the file: main_SBMs_node_classification.ipynb
+This will import all the necessary dependencies
 
 <br>
 
