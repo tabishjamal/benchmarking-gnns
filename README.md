@@ -11,6 +11,8 @@
 #### Run the file: main_SBMs_node_classification.ipynb
 This will import all the necessary dependencies
 
+Note: The code was executed on Colab Notebook and Jupyter notebooks.
+
 <br>
 
 ## Updates
