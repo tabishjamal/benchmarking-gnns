@@ -2,13 +2,13 @@
 
 # Benchmarking Graph Neural Networks - Project Erdos
 
-## The code was forked from https://github.com/graphdeeplearning/benchmarking-gnns/tree/master-dgl-0.6 and later modified
+## The code was forked from https://github.com/graphdeeplearning/benchmarking-gnns/tree/master-dgl-0.6 and later modified for Node Classification.
 
-#### To run the project, download the dataset from below URLs
-CLUSTER dataset: 
-PATTERN dataset: 
+#### To run the project, download the dataset from below URLs and stored in the data directory.
+#### CLUSTER dataset: https://www.dropbox.com/s/edpjywwexztxann/SBM_CLUSTER.pkl?dl=1
+#### PATTERN dataset: https://www.dropbox.com/s/9h6crgk4argc89o/SBM_PATTERN.pkl?dl=1
 
-Run the file: main_SBMs_node_classification.ipynb
+#### Run the file: main_SBMs_node_classification.ipynb
 This will import all the necessary dependencies
 
 <br>
