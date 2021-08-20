@@ -13,6 +13,9 @@ This will import all the necessary dependencies
 
 Note: The code was executed on Colab Notebook and Jupyter notebooks.
 
+#### Below are the notes from the author of the code.
+#### Paper: https://arxiv.org/pdf/2003.00982.pdf
+
 <br>
 
 ## Updates
